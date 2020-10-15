@@ -1,9 +1,12 @@
+
 [Angular JS]: http://angularjs.org
 [ymaps.GeoObject]: https://tech.yandex.ru/maps/doc/jsapi/2.0/ref/reference/GeoObject-docpage/
 [ymaps.Clusterer]: https://tech.yandex.ru/maps/doc/jsapi/2.0/ref/reference/Clusterer-docpage/
 
 Angular-ymaps [![Build Status](https://travis-ci.org/just-boris/angular-ymaps.svg?branch=master)](https://travis-ci.org/just-boris/angular-ymaps)
 =============
+
+Читайте мой блог на medium https://ashatilovdev.medium.com/
 
 Yandex Maps API as an Angular JS direcitive.
 
