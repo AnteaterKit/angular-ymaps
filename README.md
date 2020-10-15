@@ -6,8 +6,6 @@
 Angular-ymaps [![Build Status](https://travis-ci.org/just-boris/angular-ymaps.svg?branch=master)](https://travis-ci.org/just-boris/angular-ymaps)
 =============
 
-Читайте мой блог на medium https://ashatilovdev.medium.com/
-
 Yandex Maps API as an Angular JS direcitive.
 
 Это модуль для [Angular JS], предназначенный для простого подключения и работы с Яндекс-картами. С его помощью можно
